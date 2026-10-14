@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Student Management",
+    "slug": "student-management",
+    "version": "1.0.0",
+    "scheme": "studentmanagement",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.example.studentmanagement"
+    },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
